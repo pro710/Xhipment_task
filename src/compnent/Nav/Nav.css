@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    background-color: rgba(95, 95, 80, 0.87);
+    height: 25px;
+    width: 100%;
+    padding-left: 15px;
+    
+}
+.allpost{
+    padding-left: 30px;
+
+}
